@@ -9,7 +9,7 @@
 
 # Ignore all site specific data
 /web/sites/*
-!/web/sites/default/
+/web/sites/default/
 !/web/sites/example.sites.php
 
 # Ignore IDE files
